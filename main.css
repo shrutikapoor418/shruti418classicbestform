@@ -1,0 +1,92 @@
+.n,.R{
+  align-items:center;
+   margin-left: 10%;
+
+}
+.heade{
+  background-color:purple;
+  width: 100%;
+  height:20%;
+}
+.a{
+  align-items:center;
+   margin-left: 20%;
+   margin-bottom: 45%;
+
+}
+.q{
+  font-size:1.5rem;
+margin-left: 5rem;
+color:#09015f;
+border-color: #ff577f;
+background-color: #ff577f;
+align-items: center;
+}
+.o{
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 2vh;
+column-span: 20%;
+}
+.R{
+  width: 100%;
+  align-items: center;
+}
+h1{
+  font-size: 4vh;
+  color:#eb596e;
+  align-items: center;
+  margin-left: 40%;
+  font-family: 'Potta One', cursive;
+}
+#wrapper
+{
+  background-color: #eb596e;
+  width:80%;
+  height: 80vh;
+  margin:0 auto;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+}
+form{
+  padding: 2rem 0;
+  background-color: #ffd5cd;
+  border-radius: 1rem;
+  box-shadow: 0 1px 1.5rem #ff577f;
+  height: 75%;
+  width:55%;
+  color: #583d72;
+  margin-left: 15%;
+  border-style: solid;
+
+
+  border-color:#ffd5cd;
+  border-radius: 15%;
+  margin-left: 25%;
+  margin-right: 5%;
+  font-family: 'Acme', sans-serif;
+font-family: 'Potta One', cursive;
+
+
+}
+
+.j
+{
+  font-family: 'Nerko One', cursive;
+  font-size:4vh;
+  color:purple;
+
+}
+input{
+  font-family: 'Acme', sans-serif;
+font-family: 'Potta One', cursive;
+
+}
+body{
+  background-color: #f8dc81;
+  margin: 5%;
+  border-style: double;
+  border-color: #ff577f;
+  border-width: thick;
+  border-radius: 20%;
+}
